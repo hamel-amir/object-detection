@@ -1,1 +1,1 @@
-print(" SAHI Kenza et HAMEL Amir by Main")
+print("SAHI Kenza et HAMEL Amir")
