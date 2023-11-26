@@ -1,1 +1,1 @@
-print("SAHI Kenza et HAMEL Amir check")
+print("SAHI Kenza et HAMEL Amir")
